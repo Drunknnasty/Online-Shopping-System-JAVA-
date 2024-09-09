@@ -1,0 +1,2 @@
+1;1,Smartphone,699.99,Brand: APPLE;699.99
+2;2,Laptop,1299.99,Brand: ASUS;3,T-Shirt,19.99,Size: M;1319.98

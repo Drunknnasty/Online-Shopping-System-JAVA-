@@ -1,0 +1,2 @@
+1;2,Laptop,1299.99,Brand: ASUS;1299.99
+2;1,Smartphone,699.99,Brand: APPLE;699.99
